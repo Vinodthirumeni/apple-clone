@@ -71,16 +71,16 @@ function Footer() {
           <p>
             <strong>Shop and Learn</strong>
           </p>
-          <a href="https://www.apple.com/in/mac/">Mac</a>
-          <a href="https://www.apple.com/in/ipad/">iPad</a>
-          <a href="https://www.apple.com/in/iphone/">iPhone</a>
-          <a href="https://www.apple.com/in/watch/">Watch</a>
-          <a href="https://www.apple.com/in/tv/">TV</a>
-          <a href="https://www.apple.com/in/music/">Music</a>
-          <a href="https://www.apple.com/in/airpods/">AirPods</a>
-          <a href="https://www.apple.com/in/homepod/">HomePod</a>
-          <a href="https://www.apple.com/in/ipod-touch/">iPod touch</a>
-          <a href="https://www.apple.com/in/shop/goto/buy_accessories">
+          <a href="https://apple-clone-7a833.web.app/">Mac</a>
+          <a href="https://apple-clone-7a833.web.app/">iPad</a>
+          <a href="https://apple-clone-7a833.web.app/">iPhone</a>
+          <a href="https://apple-clone-7a833.web.app/">Watch</a>
+          <a href="https://apple-clone-7a833.web.app/">TV</a>
+          <a href="https://apple-clone-7a833.web.app/">Music</a>
+          <a href="https://apple-clone-7a833.web.app/">AirPods</a>
+          <a href="https://apple-clone-7a833.web.app/">HomePod</a>
+          <a href="https://apple-clone-7a833.web.app/">iPod touch</a>
+          <a href="https://apple-clone-7a833.web.app/">
             Accessories
           </a>
         </div>
@@ -88,62 +88,62 @@ function Footer() {
           <p>
             <strong>Services</strong>
           </p>
-          <a href="https://www.apple.com/in/apple-music/">Apple Music</a>
-          <a href="https://www.apple.com/in/apple-tv-plus/">Apple TV+</a>
-          <a href="https://www.apple.com/in/apple-arcade/">Apple Arcade</a>
-          <a href="https://www.apple.com/in/icloud/">iCloud</a>
-          <a href="https://www.apple.com/in/apple-one/">Apple One</a>
-          <a href="https://www.apple.com/in/apple-books/">Apple Books</a>
-          <a href="https://www.apple.com/in/app-store/">App Store</a>
+          <a href="https://apple-clone-7a833.web.app/">Apple Music</a>
+          <a href="https://apple-clone-7a833.web.app/">Apple TV+</a>
+          <a href="https://apple-clone-7a833.web.app/">Apple Arcade</a>
+          <a href="https://apple-clone-7a833.web.app/">iCloud</a>
+          <a href="https://apple-clone-7a833.web.app/">Apple One</a>
+          <a href="https://apple-clone-7a833.web.app/">Apple Books</a>
+          <a href="https://apple-clone-7a833.web.app/">App Store</a>
           <p></p>
           <p>
             <strong>Account</strong>
           </p>
-          <a href="https://appleid.apple.com/in/">Manage Your Apple ID</a>
-          <a href="https://www.apple.com/in/shop/goto/account">
+          <a href="https://apple-clone-7a833.web.app/">Manage Your Apple ID</a>
+          <a href="https://apple-clone-7a833.web.app/">
             Apple Store Account
           </a>
-          <a href="https://www.icloud.com/">iCloud.com</a>
+          <a href="https://apple-clone-7a833.web.app/">iCloud.com</a>
         </div>
         <div className="footerMiddlePara">
           <p>
             <strong>Apple Store</strong>
           </p>
-          <a href="https://www.apple.com/in/shop/goto/shop">Shop Online</a>
-          <a href="https://www.apple.com/in/shop/goto/ways_to_buy">
+          <a href="https://apple-clone-7a833.web.app/">Shop Online</a>
+          <a href="https://apple-clone-7a833.web.app/">
             Ways to Buy
           </a>
-          <a href="https://www.apple.com/in/shop/goto/trade_in">
+          <a href="https://apple-clone-7a833.web.app/">
             Apple Trade In
           </a>
-          <a href="https://www.apple.com/in/recycling/">Recycling Programme</a>
-          <a href="https://www.apple.com/in/shop/goto/order/list">
+          <a href="https://apple-clone-7a833.web.app/">Recycling Programme</a>
+          <a href="https://apple-clone-7a833.web.app/">
             Order Status
           </a>
-          <a href="https://www.apple.com/in/shop/goto/help">Shopping Help</a>
+          <a href="https://apple-clone-7a833.web.app/">Shopping Help</a>
         </div>
         <div className="footerMiddlePara">
           <p>
             <strong>For Business</strong>
           </p>
-          <a href="https://www.apple.com/in/business/">Apple and Business</a>
+          <a href="https://apple-clone-7a833.web.app/">Apple and Business</a>
           <p></p>
           <p>
             <strong>For Education</strong>
           </p>
-          <a href="https://www.apple.com/in/education/">Apple and Education</a>
-          <a href="https://www.apple.com/in/education/k12/how-to-buy/">
+          <a href="https://apple-clone-7a833.web.app/">Apple and Education</a>
+          <a href="https://apple-clone-7a833.web.app/">
             Shop for Education
           </a>
-          <a href="https://www.apple.com/in/shop/goto/educationrouting">
+          <a href="https://apple-clone-7a833.web.app/">
             Shop for University
           </a>
           <p></p>
           <p>
             <strong>For Healthcare</strong>
           </p>
-          <a href="https://www.apple.com/in/healthcare/">Apple in Healthcare</a>
-          <a href="https://www.apple.com/in/healthcare/apple-watch/">
+          <a href="https://apple-clone-7a833.web.app/">Apple in Healthcare</a>
+          <a href="https://apple-clone-7a833.web.app/">
             Health on Apple Watch
           </a>
         </div>
@@ -151,29 +151,29 @@ function Footer() {
           <p>
             <strong>Apple Values</strong>
           </p>
-          <a href="https://www.apple.com/in/accessibility/">Accessibility</a>
-          <a href="https://www.apple.com/in/environment/">Environment</a>
-          <a href="https://www.apple.com/in/privacy/">Privacy</a>
-          <a href="https://www.apple.com/in/supplier-responsibility/">
+          <a href="https://apple-clone-7a833.web.app/">Accessibility</a>
+          <a href="https://apple-clone-7a833.web.app/">Environment</a>
+          <a href="https://apple-clone-7a833.web.app/">Privacy</a>
+          <a href="https://apple-clone-7a833.web.app/">
             Supplier Responsibility
           </a>
           <p></p>
           <p>
             <strong>About Apple</strong>
           </p>
-          <a href="https://www.apple.com/in/newsroom/">Newsroom</a>
-          <a href="https://www.apple.com/in/leadership/">Apple Leadership</a>
-          <a href="https://www.apple.com/jobs/in/">Job Opportunities</a>
-          <a href="https://investor.apple.com/">Investors</a>
-          <a href="https://www.apple.com/in/apple-events/">Events</a>
-          <a href="https://www.apple.com/in/contact/">Contact Apple</a>
+          <a href="https://apple-clone-7a833.web.app/">Newsroom</a>
+          <a href="https://apple-clone-7a833.web.app/">Apple Leadership</a>
+          <a href="https://apple-clone-7a833.web.app/">Job Opportunities</a>
+          <a href="https://apple-clone-7a833.web.app/">Investors</a>
+          <a href="https://apple-clone-7a833.web.app/">Events</a>
+          <a href="https://apple-clone-7a833.web.app/">Contact Apple</a>
         </div>
       </div>
       <div className="footerMiddleBottom">
         <p>
           More ways to shop:
           <span>
-            <a href="https://locate.apple.com/in/en/">Find a retailer</a>
+            <a href="https://apple-clone-7a833.web.app/">Find a retailer</a>
           </span>
           near you. Or call 000800 040 1966.
         </p>
@@ -181,15 +181,15 @@ function Footer() {
         <div className="footerMiddleBottomCopy">
           <p>Copyright © 2021 Apple Inc. All rights reserved.</p>
           <div className="footerMiddleBottomLink">
-            <a href="https://www.apple.com/in/legal/privacy/">Privacy Policy</a>
-            <a href="https://www.apple.com/in/legal/terms/site.html">
+            <a href="https://apple-clone-7a833.web.app/">Privacy Policy</a>
+            <a href="https://apple-clone-7a833.web.app/">
               Terms of Use
             </a>
-            <a href="https://www.apple.com/in/shop/goto/help/sales_refunds">
+            <a href="https://apple-clone-7a833.web.app/">
               Sales Policy
             </a>
-            <a href="https://www.apple.com/in/legal/">Legal </a>
-            <a href="https://www.apple.com/in/sitemap/">Site Map</a>
+            <a href="https://apple-clone-7a833.web.app/">Legal </a>
+            <a href="https://apple-clone-7a833.web.app/">Site Map</a>
           </div>
           <p>India</p>
         </div>

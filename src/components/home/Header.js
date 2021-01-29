@@ -17,13 +17,13 @@ function Header() {
           <ClearIcon onClick={() => setShowSearch(!showSearch)} />
         )}
         <AppleIcon />
-        <a href="https://www.apple.com/in/mac/">Mac</a>
-        <a href="https://www.apple.com/in/ipad/">iPad</a>
-        <a href="https://www.apple.com/in/iphone/">iPhone</a>
-        <a href="https://www.apple.com/in/watch/">Watch</a>
-        <a href="https://www.apple.com/in/tv/">Tv</a>
-        <a href="https://www.apple.com/in/music/">Music</a>
-        <a href="https://support.apple.com/en-in">Support</a>
+        <a href="https://apple-clone-7a833.web.app/">Mac</a>
+        <a href="https://apple-clone-7a833.web.app/">iPad</a>
+        <a href="https://apple-clone-7a833.web.app/">iPhone</a>
+        <a href="https://apple-clone-7a833.web.app/">Watch</a>
+        <a href="https://apple-clone-7a833.web.app/">Tv</a>
+        <a href="https://apple-clone-7a833.web.app/">Music</a>
+        <a href="https://apple-clone-7a833.web.app/">Support</a>
         <SearchIcon />
         <LocalMallOutlinedIcon />
       </div>

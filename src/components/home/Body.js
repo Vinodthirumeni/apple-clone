@@ -23,9 +23,9 @@ function Body() {
           title4="Learn more"
           title5="Buy"
           titleSpace="titleSpace"
-          href1="https://www.apple.com/in/iphone-12/"
-          href2="https://www.apple.com/in/shop/goto/buy_iphone/iphone_12"
-          hrefMain="https://www.apple.com/in/iphone-12/"
+          href1="https://apple-clone-7a833.web.app/"
+          href2="https://apple-clone-7a833.web.app/"
+          hrefMain="https://apple-clone-7a833.web.app/"
         />
         <Banner
           img={Banner2}
@@ -35,9 +35,9 @@ function Body() {
           title4="Learn more"
           title5="Buy"
           css="white"
-          href1="https://www.apple.com/in/iphone-12-pro/"
-          href2="https://www.apple.com/in/shop/goto/buy_iphone/iphone_12_pro"
-          hrefMain="https://www.apple.com/in/iphone-12-pro/"
+          href1="https://apple-clone-7a833.web.app/"
+          href2="https://apple-clone-7a833.web.app/"
+          hrefMain="https://apple-clone-7a833.web.app/"
         />
         <Banner
           img={Banner3}
@@ -49,9 +49,9 @@ function Body() {
           css="white"
           space="space"
           logo="logo"
-          href1="https://www.apple.com/in/apple-watch-series-6/"
-          href2="https://www.apple.com/in/shop/goto/apple_watch"
-          hrefMain="https://www.apple.com/in/apple-watch-series-6/"
+          href1="https://apple-clone-7a833.web.app/"
+          href2="https://apple-clone-7a833.web.app/"
+          hrefMain="https://apple-clone-7a833.web.app/"
         />
       </div>
       <div className="bodyQuadBanner">
@@ -59,45 +59,45 @@ function Body() {
           <QuadBody
             img={Quad1}
             section="Quad1"
-            href1="https://www.apple.com/in/airpods-max/"
-            href2="https://www.apple.com/in/shop/goto/buy_airpods/airpods_max"
-            hrefMain="https://www.apple.com/in/airpods-max/"
+            href1="https://apple-clone-7a833.web.app/"
+            href2="https://apple-clone-7a833.web.app/"
+            hrefMain="https://apple-clone-7a833.web.app/"
           />
           <QuadBody
             img={Quad2}
             section="Quad2"
-            href1="https://www.apple.com/in/macbook-air/"
-            href2="https://www.apple.com/in/shop/goto/buy_mac/macbook_air"
-            hrefMain="https://www.apple.com/in/macbook-air/"
+            href1="https://apple-clone-7a833.web.app/"
+            href2="https://apple-clone-7a833.web.app/"
+            hrefMain="https://apple-clone-7a833.web.app/"
           />
         </div>
         <div className="bodyQuadBannerBody">
           <QuadBody
             img={Quad3}
             section="Quad3"
-            hrefMain="https://www.apple.com/in/education/college-students/"
-            href1="https://www.apple.com/in/education/college-students/"
+            hrefMain="https://apple-clone-7a833.web.app/"
+            href1="https://apple-clone-7a833.web.app/"
           />
           <QuadBody
             img={Quad4}
             section="Quad4"
-            hrefMain="https://www.apple.com/in/privacy/"
-            href1="https://www.apple.com/in/privacy/"
+            hrefMain="https://apple-clone-7a833.web.app/"
+            href1="https://apple-clone-7a833.web.app/"
           />
         </div>
         <div className="bodyQuadBannerBody">
           <QuadBody
             img={Quad5}
             section="Quad5"
-            hrefMain="https://www.apple.com/in/shop/goto/gifts/valentines_day"
-            href1="https://www.apple.com/in/shop/goto/gifts/valentines_day"
+            hrefMain="https://apple-clone-7a833.web.app/"
+            href1="https://apple-clone-7a833.web.app/"
           />
           <QuadBody
             img={Quad6}
             section="Quad6"
-            hrefMain="https://tv.apple.com/in/show/umc.cmc.1h3msl5cfif0fz9my2kgvtk36?itscg=10000&itsct=atv-0-apl_hp-pmo_wch-losingalice-201104"
-            href1="https://tv.apple.com/in/show/umc.cmc.1h3msl5cfif0fz9my2kgvtk36?itscg=10000&itsct=atv-0-apl_hp-pmo_wch-losingalice-201104"
-            href2="https://tv.apple.com/in/show/umc.cmc.1h3msl5cfif0fz9my2kgvtk36?itscg=10000&itsct=atv-0-apl_hp-pmo_wch-losingalice-201104"
+            hrefMain="https://apple-clone-7a833.web.app/"
+            href1="https://apple-clone-7a833.web.app/"
+            href2="https://apple-clone-7a833.web.app/"
           />
         </div>
       </div>
