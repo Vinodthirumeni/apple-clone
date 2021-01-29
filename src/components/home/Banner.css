@@ -1,0 +1,136 @@
+.banner {
+  align-items: center;
+  background-color: inherit;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.banner > img {
+  margin-bottom: 10px;
+  width: 100%;
+}
+.bannerText {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 5%;
+}
+.bannerBuyText {
+  display: flex;
+}
+.bannerBuyText > a {
+  text-decoration: none;
+}
+.bannerTitle1 {
+  align-items: center;
+  color: black;
+  display: flex;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.bannerTitle2 {
+  color: black;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.bannerTitle3 {
+  color: #86868b;
+  font-size: 17px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.bannerTitle4 {
+  color: #06c;
+  font-size: 19px;
+  margin-bottom: 10px;
+  margin-right: 30px;
+}
+.bannerTitle4:hover {
+  text-decoration: underline;
+}
+.bannerTitle5:hover {
+  text-decoration: underline;
+}
+.bannerTitle5 {
+  color: #06c;
+  font-size: 19px;
+  margin-bottom: 10px;
+}
+.bannerSmall {
+  display: none;
+}
+.bannerTitleMid {
+  color: red;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 18px;
+}
+.bannerTitle1 > .MuiSvgIcon-root {
+  color: white;
+  font-size: 48px;
+}
+.T1 {
+  color: white;
+}
+.T2 {
+  color: white;
+}
+.L1 {
+  color: red;
+}
+.S1 {
+  top: 15%;
+}
+@media only screen and (max-width: 767px) {
+  .bannerTitle1 {
+    font-size: 24px;
+  }
+  .bannerTitle2 {
+    font-size: 12px;
+  }
+  .bannerTitle3 {
+    font-size: 8px;
+  }
+  .bannerTitle4 {
+    font-size: 9px;
+  }
+  .bannerTitle5 {
+    font-size: 10px;
+  }
+  .bannerTitleMid {
+    font-size: 9px;
+  }
+  .bannerTitle1 > .MuiSvgIcon-root {
+    font-size: 24px;
+  }
+}
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .bannerTitle1 {
+    font-size: 24px;
+  }
+  .bannerTitle2 {
+    font-size: 12px;
+  }
+  .bannerTitle3 {
+    font-size: 8px;
+  }
+  .bannerTitle4 {
+    font-size: 9px;
+  }
+  .bannerTitle5 {
+    font-size: 10px;
+  }
+  .bannerTitleMid {
+    font-size: 9px;
+  }
+  .bannerTitle1 > .MuiSvgIcon-root {
+    font-size: 24px;
+  }
+}

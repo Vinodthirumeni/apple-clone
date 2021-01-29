@@ -1,0 +1,281 @@
+.quadBody {
+  height: 100%;
+  margin: 10px;
+  position: relative;
+  width: 150%;
+}
+.quadBody > a > img {
+  width: 100%;
+}
+.quadbodyText1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 30px;
+}
+.quadbodyText1 > p {
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0em;
+}
+.quadbodySubText1 {
+  display: flex;
+  margin-top: 10px;
+}
+.quadbodySubText1 > a {
+  color: #06c;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.quadbodySubText1 > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.quadbodyText2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 30px;
+}
+.quadbodyText2 > p:nth-child(1) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0em;
+}
+.quadbodyText2 > p:nth-child(2) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0em;
+}
+.quadbodySubText2 {
+  display: flex;
+  margin-top: 10px;
+}
+.quadbodySubText2 > a {
+  color: #06c;
+  color: white;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.quadbodySubText2 > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.quadbodyText3 {
+  align-items: center;
+  bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+}
+.quadbodyText3 > p:nth-child(1) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0em;
+}
+.quadbodyText3 > p:nth-child(2) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0em;
+}
+.quadbodySubText3 {
+  display: flex;
+  margin-top: 10px;
+}
+.quadbodySubText3 > a {
+  color: white;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.quadbodySubText3 > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.quadbodyText4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 30%;
+}
+.quadbodyText4 > p:nth-child(2) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 80px;
+  font-weight: 600;
+  letter-spacing: 0em;
+}
+.quadbodyText4 > p:nth-child(3) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0em;
+}
+.quadbodyText4 > .MuiSvgIcon-root {
+  color: white;
+  font-size: 80px;
+}
+.quadbodySubText4 {
+  display: flex;
+  margin-top: 10px;
+}
+.quadbodySubText4 > a {
+  color: white;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.quadbodySubText4 > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.quadbodyText5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 30px;
+}
+.quadbodyText5 > p:nth-child(3) {
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0em;
+}
+.quadbodyText5 > p:nth-child(2) {
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0em;
+}
+.quadbodySubText5 {
+  display: flex;
+  margin-top: 10px;
+}
+.quadbodySubText5 > a {
+  color: #06c;
+  color: white;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.quadbodySubText5 > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.quadbodyText6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 30px;
+}
+.quadbodyText6 > p:nth-child(2) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0em;
+  line-height: 1.1;
+}
+.quadbodyText6 > p:nth-child(3) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 1em;
+  line-height: 1.2381;
+}
+.quadbodyText6 > p:nth-child(4) {
+  color: white;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: 1em;
+  line-height: 1.2381;
+}
+.quadbodyText6 > .MuiSvgIcon-root {
+  color: white;
+}
+.quadbodySubText6 {
+  align-items: center;
+  bottom: -450px;
+  display: flex;
+  flex-direction: column;
+  line-height: 2;
+  margin-top: 10px;
+  position: absolute;
+}
+.quadbodySubText6 > a {
+  color: white;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.quadbodySubText6 > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

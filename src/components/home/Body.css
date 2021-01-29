@@ -1,0 +1,15 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+}
+.bodyTop > p > span {
+  color: #3a71c9;
+}
+.bodyQuadBanner {
+  display: flex;
+  flex-direction: column;
+}
+.bodyQuadBannerBody {
+  display: flex;
+}

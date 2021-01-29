@@ -1,0 +1,67 @@
+.header
+{
+  align-items: center;
+  background-color: #0c0c0c;
+  border: 1px solid black;
+  color: lightgray;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
+  padding-left: 50px;
+  padding-right: 50px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+.header > a
+{
+  color: white;
+  text-decoration: none;
+}
+.header > a:hover
+{
+  color: white;
+  cursor: pointer;
+}
+.header > .MuiSvgIcon-root:hover
+{
+  color: white;
+  cursor: pointer;
+}
+.header > .MuiSvgIcon-root:nth-child(1)
+{
+  display: none;
+}
+.headerNav
+{
+  display: none;
+}
+@media only screen and (max-width: 767px)
+{
+  .header
+  {
+    padding: 6px;
+    padding-left: 3px;
+    padding-right: 3px;
+    width: 100%;
+  }
+  .header > a
+  {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 767px) and (orientation: portrait)
+{
+  .header
+  {
+    padding: 6px;
+    padding-left: 3px;
+    padding-right: 3px;
+    width: 100%;
+  }
+  .header > a
+  {
+    font-size: 10px;
+  }
+}
